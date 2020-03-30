@@ -8,9 +8,9 @@ class TestesComCarro {
 
 	@Test
 	void TestarFusca() {
-		Carro fusca = new Carro(10);		
+		Carro fusca = new Carro(10);
 		assertFalse(fusca.isLigado());
-		
+
 		fusca.abastecer(20.00);
 		assertEquals(30, fusca.CombustivelRestante());
 
@@ -24,14 +24,14 @@ class TestesComCarro {
 
 		fusca.desligar();
 		assertFalse(fusca.isLigado());
-		assertEquals(29.50, fusca.CombustivelRestante());	
+		assertEquals(29.50, fusca.CombustivelRestante());
 	}
 
 	@Test
 	void TestarFerrari() {
-		Carro ferrari = new Carro(0);		
+		Carro ferrari = new Carro(0);
 		assertFalse(ferrari.isLigado());
-		
+
 		ferrari.abastecer(1);
 		assertEquals(1, ferrari.CombustivelRestante());
 
@@ -58,23 +58,23 @@ class TestesComCarro {
 
 	@Test
 	void TestarMarea() {
-		Carro marea = new Carro(0);		
+		Carro marea = new Carro(0);
 		assertFalse(marea.isLigado());
-		
+
 		marea.abastecer(0.3);
 		assertEquals(0.3, marea.CombustivelRestante());
 
 		marea.ligar();
 		assertTrue(marea.isLigado());
-		assertEquals(0.05, marea.CombustivelRestante());
+		assertEquals(0.05, marea.CombustivelRestante(),0.01);
 
 		marea.desligar();
 		assertFalse(marea.isLigado());
-		assertEquals(0.05, marea.CombustivelRestante());
+		assertEquals(0.05, marea.CombustivelRestante(),0.01);
 
 		marea.ligar();
 		assertFalse(marea.isLigado());
-		assertEquals(0.05, marea.CombustivelRestante());
+		assertEquals(0.05, marea.CombustivelRestante(),0.01);
 
 	}
 }
