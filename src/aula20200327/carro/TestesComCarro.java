@@ -83,6 +83,7 @@ class TestesComCarro {
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -96,3 +97,5 @@ class TestesComCarro {
 
 
 
+=======
+>>>>>>> 86917319739d8d2543f01bebf64346297b94a72f
