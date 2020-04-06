@@ -77,13 +77,21 @@ class TestesComCarro {
 		assertEquals(0.05, marea.CombustivelRestante(),0.01);
 
 	}
+
+	@Test
+	void esvaziarTanqueDeCombustivel() {
+		Carro Celta = new Carro(50);
+
+		Celta.EsvaziarCombustivelNoTanque();
+
+		assertEquals(0, Celta.CombustivelRestante());
+	}
 }
 
 
 
 
 
-<<<<<<< HEAD
 
 
 
@@ -97,5 +105,3 @@ class TestesComCarro {
 
 
 
-=======
->>>>>>> 86917319739d8d2543f01bebf64346297b94a72f

@@ -41,5 +41,8 @@ public class Carro {
 			desligar();
 		}
 	}
+	public void EsvaziarCombustivelNoTanque() {
+		totalCombustivel = 0;
+	}
 
 }
