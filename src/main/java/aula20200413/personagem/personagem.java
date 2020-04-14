@@ -65,6 +65,7 @@ public class Personagem {
   // 2.3 Um método modificador;
   public double dormir(){
     this.vida = 100;
+    return this.vida;
   }
 
   // 2.6 Um método encapsulado que seja usado pelo método de acesso do item 2.5.
