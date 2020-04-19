@@ -45,6 +45,7 @@ public class AppConta {
 
 		novaConta.ativarConta();
 		novaConta.login("leo", 123);
+	}	
 }
 ```
 
