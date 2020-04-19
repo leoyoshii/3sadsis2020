@@ -50,11 +50,11 @@ public class AppConta {
 
 ## Exercício 3
 
-[Classe com validações, encapsulamento,exceções](https://github.com/leoyoshii/3sadsis2020/tree/master/src/main/java/segundaaep/Conta)
+[Classe com validações, encapsulamento,exceções](https://github.com/leoyoshii/3sadsis2020/blob/master/src/main/java/segundaaep/Conta.java)
 
 ## Exercício 4
 
-[Classe app utilizando a classe do item 3](https://github.com/leoyoshii/3sadsis2020/tree/master/src/main/java/segundaaep/AppConta)
+[Classe app utilizando a classe do item 3](https://github.com/leoyoshii/3sadsis2020/blob/master/src/main/java/segundaaep/AppConta.java)
 
 ## Bonus
 
