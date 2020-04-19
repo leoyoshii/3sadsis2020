@@ -56,4 +56,4 @@ public class AppConta {
 
 [Classe app utilizando a classe do item 3](https://github.com/leoyoshii/3sadsis2020/tree/master/src/main/java/segundaaep/AppConta)
 
-![tamojunto](!https://github.com/leoyoshii/3sadsis2020/blob/master/public/tamojunto.jpeg)
+![tamojunto](https://github.com/leoyoshii/3sadsis2020/blob/master/public/tamojunto.jpeg?raw=true)
