@@ -1,4 +1,4 @@
-package aula20200615;
+package Forum18062020;
 
 public class Guarantor extends Person {
 	private int idGuarantor;
