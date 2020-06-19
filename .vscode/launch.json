@@ -1,0 +1,217 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - AppEmpProjeto",
+      "request": "launch",
+      "mainClass": "unicesumarSegundoBimestre.Associação0n0nBi.AppEmpProjeto",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - AppCarroMotor",
+      "request": "launch",
+      "mainClass": "unicesumarSegundoBimestre.Associação101Bi.AppCarroMotor",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch) - Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200217.escritaEmConsole.App",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppPessoa<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula202003016.primeirasClasses.AppPessoa",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<3sadsis2020>(1)",
+      "request": "launch",
+      "mainClass": "aula20200302.manipulacaoDeArrays.App",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<3sadsis2020>(2)",
+      "request": "launch",
+      "mainClass": "aula20200306.buscas.App",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppLivro<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200313.primeirasClasses.AppLivro",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppCofre<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200323.cofre.AppCofre",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppTiposDeMetodos<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200406.tiposDeMetodos.AppTiposDeMetodos",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppConstrutores<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200413.construtores.AppConstrutores",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppExcecoes<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200417.excecoes.AppExcecoes",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppArrayList<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200508.arrayList.AppArrayList",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppAssociaçõesComArrays<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200508.associaçõesComArray.AppAssociaçõesComArrays",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppFundamentos<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200511.fundamentosColeções.AppFundamentos",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppFundamentosArray<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200511.fundamentosColeções.AppFundamentosArray",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppFundamentosArrayList<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200511.fundamentosColeções.AppFundamentosArrayList",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppPedido<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200515.pedido.AppPedido",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppConjuntosComCores<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200518.conjuntos.AppConjuntosComCores",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppConjuntosComNomes<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200518.conjuntos.AppConjuntosComNomes",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppPedido<3sadsis2020>(1)",
+      "request": "launch",
+      "mainClass": "aula20200518.pedido.AppPedido",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppTurmas<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200522.turmas.AppTurmas",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppLocalidades<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200525.localidades.AppLocalidades",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppTurmas<3sadsis2020>(1)",
+      "request": "launch",
+      "mainClass": "aula20200525.turmas.AppTurmas",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppDesempenhoCollections<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200529.desempenhoCollections.AppDesempenhoCollections",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppLocalidades<3sadsis2020>(1)",
+      "request": "launch",
+      "mainClass": "aula20200529.localidadesAssocBidirecional.AppLocalidades",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppAssociações<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200601.associações.AppAssociações",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppAssociaçãoUmParaUm<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200605.associaçãoUmParaUm.AppAssociaçãoUmParaUm",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-AppDúvidas<3sadsis2020>",
+      "request": "launch",
+      "mainClass": "aula20200608.dúvidas.AppDúvidas",
+      "projectName": "3sadsis2020"
+    },
+    {
+      "type": "java",
+      "name": "Debug (Launch)-App<3sadsis2020>(3)",
+      "request": "launch",
+      "mainClass": "unicesumarSegundoBimestre.App",
+      "projectName": "3sadsis2020"
+    }
+  ]
+}
